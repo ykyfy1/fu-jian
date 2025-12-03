@@ -24,3 +24,7 @@ http://ipipip/rtp/239.61.5.98:1025
 http://ipipip/rtp/239.61.5.117:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://www.yangfeiyue.cn/tv/海峡卫视.png" group-title="卫视高清",海峡卫视
 http://ipipip/rtp/239.61.5.45:1025
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://www.yangfeiyue.cn/tv/环球旅游.png" group-title="卫视高清",环球旅游
+http://ipipip/rtp/239.61.4.180:1025
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://www.yangfeiyue.cn/tv/环球奇观.png" group-title="卫视高清",环球奇观
+http://ipipip/rtp/239.61.4.212:1025
